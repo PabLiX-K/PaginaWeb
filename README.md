@@ -1,2 +1,1 @@
-My Profile
-Pagina My profile
+My Profile 
